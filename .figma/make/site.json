@@ -1,0 +1,10 @@
+{
+  "description": "Create interactive prototypes effortlessly with this web app, designed for designers and teams to visualize and test user experiences seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
